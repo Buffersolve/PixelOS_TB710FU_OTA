@@ -1,5 +1,13 @@
 # TB710FU changelog
 
+## PixelOS 17.0 - 20261026-2218
+
+- Bluetooth: the "Phone calls" and "Media audio" toggles are back in the device
+  settings (they were hidden, e.g. for AirPods)
+- Discord, Telegram and other VoIP apps play on Bluetooth headphones in full
+  quality with the tablet mic when the headphones' "Phone calls" toggle is off
+  (before, they switched to the speaker)
+
 ## PixelOS 17.0 - 20261025-1822
 
 - StrongBox: the secure processor (SPU) services from the stock firmware are back,
