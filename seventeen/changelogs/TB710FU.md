@@ -1,5 +1,11 @@
 # TB710FU changelog
 
+## PixelOS 17.0 - 20261027-1630
+
+- Global (ROW) tablets: the install could not write the region and stopped
+  with an error (kPostinstallRunnerError). Fixed. Flash the recovery.img of
+  this build before installing it from recovery
+
 ## PixelOS 17.0 - 20261027-1115
 
 - One build for PRC (China) and global (ROW) tablets: the install sets the
