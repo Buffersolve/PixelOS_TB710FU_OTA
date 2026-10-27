@@ -1,5 +1,17 @@
 # TB710FU changelog
 
+## PixelOS 17.0 - 20261027-1115
+
+- One build for PRC (China) and global (ROW) tablets: the install sets the
+  region the bootloader expects, so global tablets no longer power off with
+  "The current system is not compatible with hardware"
+- Installing from recovery: flash the recovery.img of this build first (older
+  recoveries stop the install with an error, nothing is changed). Updates
+  through the Updater need nothing
+- Recovery shows the region of the tablet, and Advanced > Repair region of
+  other slot fixes a slot that got the dtb of the other region
+- Key attestation and the Lenovo market name follow the region
+
 ## PixelOS 17.0 - 20261026-2218
 
 - Bluetooth: the "Phone calls" and "Media audio" toggles are back in the device

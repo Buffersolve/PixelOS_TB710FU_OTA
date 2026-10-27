@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1793053094,
+    "datetime": 1793098996,
     "files": [
       {
-        "filename": "PixelOS_TB710FU-17.0-20261026-2218.zip",
+        "filename": "PixelOS_TB710FU-17.0-20261027-1115.zip",
         "os_patch_level": "2026-10-01",
         "os_sdk_level": 37,
-        "sha256": "0f483ae0e2da4465ae6952f85ec2161766b71ba106dfd70c153fa95aef4f8d18",
-        "size": 3395376209,
-        "url": "https://downloads.sourceforge.net/project/pixelos-tb710fu/TB710FU/20261026-2218/PixelOS_TB710FU-17.0-20261026-2218.zip",
-        "ota_property_files": "payload_metadata.bin:4938:131882,payload.bin:4938:3395368207,payload_properties.txt:3395373203:156,apex_info.pb:2331:1501,care_map.pb:3879:1012,metadata:69:696,metadata.pb:833:1450                        "
+        "sha256": "a12644f1269f81fd6ad960b0aec027228ca5d5bb51e46fc4122fc0531feedfab",
+        "size": 3395773484,
+        "url": "https://downloads.sourceforge.net/project/pixelos-tb710fu/TB710FU/20261027-1115/PixelOS_TB710FU-17.0-20261027-1115.zip",
+        "ota_property_files": "payload_metadata.bin:4938:131926,payload.bin:4938:3395765482,payload_properties.txt:3395770478:156,apex_info.pb:2331:1501,care_map.pb:3879:1012,metadata:69:696,metadata.pb:833:1450                        "
       }
     ],
     "type": "ci",
