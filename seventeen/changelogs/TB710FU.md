@@ -1,5 +1,10 @@
 # TB710FU changelog
 
+## PixelOS 17.0 - 20261107-2331
+
+- Pixel Launcher: the taskbar no longer stays open in every app after opening
+  an app from home while a video goes to picture-in-picture
+
 ## PixelOS 17.0 - 20261027-1630
 
 - Global (ROW) tablets: the install could not write the region and stopped
